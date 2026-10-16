@@ -1,0 +1,31 @@
+{
+ "name": "Deep Dig",
+ "short_name": "Deep Dig",
+ "description": "A cave-digging puzzler",
+ "start_url": "./",
+ "scope": "./",
+ "display": "fullscreen",
+ "orientation": "portrait",
+ "background_color": "#17120e",
+ "theme_color": "#17120e",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
